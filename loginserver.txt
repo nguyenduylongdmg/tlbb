@@ -1,8 +1,4 @@
 VERSION 1
 SERVER_BEGIN
-
-
-TL Tėnh KiŠm,Hþp KiŠm,1,121,3,1,0,Các máy chü hiŪn tÕi TLBB Tėnh KiŠm,34.126.143.251:12680,34.126.143.251:12680,4.3.2.1:99,1.2.3.4:3733
-
-
+Thiên Long Thiên Kiªm,Thiên Kiªm V2,1,201,3,1,0,Tian Long Ba Bu,34.87.105.193:9969,,,
 SERVER_END
