@@ -2,7 +2,7 @@ VERSION 1
 SERVER_BEGIN
 
 
-TL Tėnh KiŠm,Hþp KiŠm,1,121,3,1,0,Các máy chü hiŪn tÕi TLBB Tėnh KiŠm,34.126.143.251:12680,11.2.3.4:23,4.3.2.1:99,1.2.3.4:3733
+TL Tėnh KiŠm,Hþp KiŠm,1,121,3,1,0,Các máy chü hiŪn tÕi TLBB Tėnh KiŠm,34.126.143.251:12680,34.126.143.251:12680,4.3.2.1:99,1.2.3.4:3733
 
 
 SERVER_END
